@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Ghostchamb3r 💀
-- 👻 I make electronic music and occasionally get my code propjects to work. 
-You can learn more about me and the music I make at ghostchamb3r.com. 
-I also like pugs.
+- 👋 Hi, This is the git repository of Mitch Bercier, also known under my artist/stage name aka ghosstchamb3r. I write algorithmic music and I'm a programmer specializing in sound and audio computing. 
 
 
